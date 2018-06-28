@@ -1,0 +1,18 @@
+{
+  "name": "learn-jest-circleci",
+  "version": "1.0.0",
+  "description": "Test Jest and CircleCI.",
+  "main": "calc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:daenamkim/learn-jest-circleci.git"
+  },
+  "author": "Daenam Kim",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
+}
